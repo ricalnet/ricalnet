@@ -1,69 +1,31 @@
-# Oh, Hello There 👋
+## Digital Sovereignty Architect
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-An IT/ICT & Privacy Engineer focused on secure infrastructure, network privacy, and data protection compliance.
+---
 
-```bash
-#!/bin/bash
+## 📬 Connect
 
-class_name="Risnanda Pascal"
-role="Infrastructure & Privacy Engineer"
-language_spoken=("id_ID" "en_US")
-interests=(
-    "Self-hosted infrastructure"
-    "Network privacy & anonymization"
-    "Data protection regulations"
-    "Linux system administration"
-)
-
-display_profile() {
-    echo "=== Profile ==="
-    echo "Name: $class_name"
-    echo "Role: $role"
-    echo "Languages: ${language_spoken[*]}"
-    echo "Interests: ${interests[*]}"
-}
-
-say_hi() {
-    echo "Thanks for stopping by. I hope you find the resources useful."
-}
-
-display_profile
-echo "---"
-say_hi
-```
+- 🌍 [me.ricalnet.my.id](https://me.ricalnet.my.id)
+- 📚 [docs.ricalnet.my.id](https://docs.ricalnet.my.id)
+- 📧 [ricalnet@duck.com](mailto:ricalnet@duck.com)
 
 ---
 
-## 📝 Website & Blog
+## 📖 Featured Writing
 
-- **Website:** [https://ricalnet.my.id](https://ricalnet.my.id)  
-- **Documentation & Blog:** [https://docs.ricalnet.my.id](https://docs.ricalnet.my.id) – technical guides and IT documentation.
-
-### 📔 Featured Blog Posts
-
-- [Membangun Tor Bridge Relay dengan Obfs4](https://ricaldocs.github.io/posts/membangun-tor-bridge-relay-dengan-obfs4/)  
-  A practical guide to setting up a Tor bridge relay with obfs4 for improved network anonymity.
-
-- [Membangun 5G Core (Standalone) Sendiri Menggunakan Open5GS & UERANSIM](https://ricaldocs.github.io/posts/membangun-5g-core-sendiri-menggunakan-open5gs-dan-ueransim/)  
-  Step‑by‑step tutorial on deploying a private 5G standalone core using Open5GS and UERANSIM.
-
-- [Instalasi dan Konfigurasi Pi-Hole dengan Docker untuk Blokir Iklan di Seluruh Jaringan](https://ricaldocs.github.io/posts/instalasi-dan-konfigurasi-pi-hole-dengan-docker-untuk-blokir-jaringan-iklan-di-seluruh-jaringan/)  
-  How to install and configure Pi‑Hole with Docker for network‑wide ad and tracker blocking.
-
-- [Audit Keamanan Jaringan Nirkabel Menggunakan Fluxion](https://ricaldocs.github.io/posts/audit-keamanan-jaringan-nirkabel-menggunakan-fluxion/)  
-  A wireless security audit walkthrough using Fluxion to demonstrate the risks of weak Wi‑Fi passwords.
-
-- [Panduan Lengkap Undang-Undang Perlindungan Data Pribadi](https://ricaldocs.github.io/posts/panduan-lengkap-undang-undang-perlindungan-data-pribadi/)  
-  A comprehensive overview of Indonesia’s Personal Data Protection Law (UU PDP) and its practical implications.
+| Topic | Description |
+|-------|-------------|
+| [Tor Bridge Relay with Obfs4](https://docs.ricalnet.my.id/posts/membangun-tor-bridge-relay-dengan-obfs4/) | Practical guide to deploying a Tor bridge relay for enhanced anonymity |
+| [Tor Hidden Service Implementation](https://docs.ricalnet.my.id/posts/panduan-implementasi-hidden-service-tor/) | Comprehensive guide to exposing services via `.onion` addresses |
+| [Private 5G Core with Open5GS](https://docs.ricalnet.my.id/posts/membangun-5g-core-sendiri-menggunakan-open5gs-dan-ueransim/) | Step-by-step tutorial using Open5GS and UERANSIM |
+| [Pi-Hole + Docker Network Ad Blocking](https://docs.ricalnet.my.id/posts/instalasi-dan-konfigurasi-pi-hole-dengan-docker-untuk-blokir-jaringan-iklan-di-seluruh-jaringan/) | Network-wide ad and tracker blocking |
+| [Indonesia's PDP Law Guide](https://docs.ricalnet.my.id/posts/panduan-lengkap-undang-undang-perlindungan-data-pribadi/) | Comprehensive overview of UU PDP compliance |
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Activity
 
-![Rical's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricalnet&theme=redical)
+![Rical's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ricalnet&theme=redical)
 
 ---
-
-*Thanks for visiting. I hope you find the work here useful.*
